@@ -1,0 +1,17 @@
+{
+  "name": "hapiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3",
+    "nodemon": "^2.0.1"
+  }
+}
